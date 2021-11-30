@@ -1,6 +1,6 @@
 {
-    "name": "starter_app",
-    "short_name": "starter_app",
+    "name": "ch5_widget_tree",
+    "short_name": "ch5_widget_tree",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
